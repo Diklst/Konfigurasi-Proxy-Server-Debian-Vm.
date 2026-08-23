@@ -97,7 +97,7 @@ Simpan dengan `Ctrl+X` → `Y` → `Enter`.
 nano /etc/squid/domain.txt
 ```
 ```
-facebook.com
+tiktok.com
 detik.com
 ```
 
@@ -106,7 +106,7 @@ detik.com
 nano /etc/squid/katakunci.txt
 ```
 ```
-facebook
+tiktok
 detik
 ```
 
@@ -165,7 +165,7 @@ Karena tanpa setting proxy di browser, filtering **belum berlaku** (client masih
 
 ## Hasil Pengujian
 
-- Akses `facebook.com` dan `detik.com` → **Diblokir** (muncul halaman error "Access Denied")
+- Akses `tiktok.com` dan `detik.com` → **Diblokir** (muncul halaman error "Access Denied")
 - Akses `youtube.com` atau `kompas.com` → **Masih bisa diakses** (tidak masuk daftar blokir)
 
 ```
