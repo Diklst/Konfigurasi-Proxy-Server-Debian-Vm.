@@ -28,7 +28,7 @@ Proxy adalah server/program yang menjadi perantara antara client dengan internet
 ### 1. Persiapan
 Siapkan 2 Sistem Operasi Debian: 1 sebagai Server, 1 sebagai Client (berbasis GUI).
 
-### 2. Konfigurasi Network di VirtualBox
+### 2. Konfigurasi Network di VirtualBox Machine
 
 **Server:**
 - Adapter 1 → Bridged Adapter
