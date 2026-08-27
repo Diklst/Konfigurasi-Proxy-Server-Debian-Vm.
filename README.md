@@ -1,6 +1,6 @@
 # Konfigurasi Proxy Server (Squid) di Debian 10
 
-Dokumentasi konfigurasi Proxy Server menggunakan Squid di Debian 10, termasuk fitur filtering domain dan kata kunci.
+**Dokumentasi konfigurasi Proxy Server menggunakan Squid di Debian 10 Virtual Machine, termasuk fitur filtering domain dan kata kunci.**
 
 ## Apa itu Proxy Server?
 
